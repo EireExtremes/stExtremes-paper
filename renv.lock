@@ -4411,7 +4411,7 @@
       "RemoteRepo": "stExtremes",
       "RemoteUsername": "EireExtremes",
       "RemoteRef": "HEAD",
-      "RemoteSha": "e46ffbbdf37c84c3d6d597603e1d74bb499197ec",
+      "RemoteSha": "bf524bb82d51f9d0ecb78e7fe9429099409a5a07",
       "NeedsCompilation": "no",
       "Author": "Fernando Mayer [aut, cre] (ORCID: <https://orcid.org/0000-0001-5115-338X>), Niamh Cahill [aut] (ORCID: <https://orcid.org/0000-0003-3086-550X>)",
       "Maintainer": "Fernando Mayer <fernando.mayer@mu.ie>"
