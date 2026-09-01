@@ -6,6 +6,7 @@ Data and analysis code for:
 > for Extreme Sea-Level Prediction in Ireland**
 >
 > Fernando Mayer, Niamh Mimnagh and Niamh Cahill.
+>
 > Department of Mathematics and Statistics, Maynooth University.
 >
 > *Environmetrics*, 2026.
