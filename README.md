@@ -69,10 +69,11 @@ renv::restore()
 That installs everything at the recorded versions, into a project-local
 library that leaves the rest of your R installation alone. It includes
 `INLA` 26.06.08 from <https://inla.r-inla-download.org/R/testing> (not on
-CRAN) and the `stExtremes` package from GitHub at the exact commit the
-analysis was run against. Opening R in this directory activates renv
-automatically through `.Rprofile`; until `renv::restore()` has been run,
-the project library is empty and nothing will load.
+CRAN) and `stExtremes` 1.0-0 from
+<https://github.com/EireExtremes/stExtremes>, pinned to the exact commit.
+Opening R in this directory activates renv automatically through
+`.Rprofile`; until `renv::restore()` has been run, the project library is
+empty and nothing will load.
 
 ## Running it
 

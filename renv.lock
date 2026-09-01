@@ -4364,11 +4364,11 @@
     },
     "stExtremes": {
       "Package": "stExtremes",
-      "Version": "0.1-0",
+      "Version": "1.0-0",
       "Source": "GitHub",
-      "Title": "What the Package Does (One Line, Title Case)",
+      "Title": "Spatio-Temporal Modelling of Sea-Level Extremes with INLA",
       "Authors@R": "c(person(\"Fernando\", \"Mayer\", , \"fernando.mayer@mu.ie\", role = c(\"aut\", \"cre\"), comment = c(ORCID = \"0000-0001-5115-338X\")), person(\"Niamh\", \"Cahill\", , \"niamh.cahill@mu.ie\", role = c(\"aut\"), comment = c(ORCID = \"0000-0003-3086-550X\")))",
-      "Description": "What the package does (one paragraph).",
+      "Description": "Tools for fitting Bayesian spatio-temporal extreme-value models to sea-level data with the integrated nested Laplace approximation. Provides density, distribution, quantile, random generation, negative log-likelihood and return-level functions for the generalised extreme value (GEV) distribution and its blended variant (bGEV) of Vandeskog, Martino, Castro-Camilo and Rue (2022) <doi:10.1007/s13253-022-00500-7>, in both the classical (location, scale, shape) and the quantile-based parametrisations. Adds helpers for the stochastic partial differential equation workflow in 'INLA': mesh and polygon utilities for barrier models, index construction, extraction of fitted spatial fields, posterior marginal summaries, and model diagnostics. Coastline and boundary datasets for Ireland and Great Britain are bundled as inputs to that workflow. The modelling approach is described in Mayer, Mimnagh and Cahill (2026) <doi:10.1002/env.70135>.",
       "License": "GPL (>=3) + file LICENSE",
       "Encoding": "UTF-8",
       "Roxygen": "list(markdown = TRUE)",
@@ -4411,7 +4411,7 @@
       "RemoteRepo": "stExtremes",
       "RemoteUsername": "EireExtremes",
       "RemoteRef": "HEAD",
-      "RemoteSha": "05243ab4550b6dcc45d6a9c9313f3c9f01ea1c03",
+      "RemoteSha": "9de59c1e4801d607cf45d2e30776080be770c7e4",
       "NeedsCompilation": "no",
       "Author": "Fernando Mayer [aut, cre] (ORCID: <https://orcid.org/0000-0001-5115-338X>), Niamh Cahill [aut] (ORCID: <https://orcid.org/0000-0003-3086-550X>)",
       "Maintainer": "Fernando Mayer <fernando.mayer@mu.ie>"
